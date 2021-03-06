@@ -1,12 +1,12 @@
-# BLAMstack 2021 Hackathon Submission Entry
+# Hackathon Submission Entry form
 
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 
-- [BLAMstack 2021 Hackathon Submission Entry](#blamstack-2021-hackathon-submission-entry)
+- [Hackathon Submission Entry form](#hackathon-submission-entry-form)
   - [🥇 Team name](#-team-name)
   - [📂 Category](#-category)
   - [📜 Description](#-description)
-  - [📹 Video Demo](#-video-demo)
+  - [📹 Video link](#-video-link)
   - [✅ Pre-requisites and Dependencies](#-pre-requisites-and-dependencies)
   - [👩‍🏫 Installation Instructions](#-installation-instructions)
     - [⚙ Configuration](#-configuration)
@@ -66,12 +66,10 @@ Driven by the [Microsoft Azure Cognitive Services Text Analytics API](https://az
 
    - The results are displayed using a `Show-Result` modal and rendered in an easy-to-copy format.
 
-
 <br/><div style="float:right"><a href="#">Back to top</a></div><br/>
 
 
-## 📹 Video Demo
-
+## 📹 Video link
 
 - [https://www.youtube.com/watch?v=l5wV0TXfC8k](https://www.youtube.com/watch?v=l5wV0TXfC8k)
 
@@ -139,6 +137,8 @@ If the above criteria is not met, the utilities **will not visible**.
 
 <br/>
 
+---
+
 ### Utility Locations
 
 Both utilities are accessible in two locations:
@@ -152,6 +152,8 @@ Both utilities are accessible in two locations:
     ![](docs/images/location-contextmenu.png)
 
 <br/>
+
+---
 
 ### Sentiment Analyzer
 
@@ -168,13 +170,15 @@ Both utilities are accessible in two locations:
 
 <br/>
 
+---
+
 ### Keyword Analyzer
 1. Start the `Keyword Analyzer` from either the `Ribbon` or the `Context Menu`
 
 2. Select a field and the language you'd like analyzed and click `Continue`. 
     > These options are dynamically generated based on the item. If an item has multiple-language versions, those options will render allowing the author to select the language to analyze.  
 
-    ![](/docs/images/integration-points-rebuild.png)
+    ![](/docs/images/keyword-options.png)
 
 3. Review sentence-by-sentence sentiment analysis:
 
