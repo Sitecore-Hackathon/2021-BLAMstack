@@ -3,21 +3,20 @@
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 
 - [BLAMstack 2021 Hackathon Submission Entry](#blamstack-2021-hackathon-submission-entry)
-  - [🥇 Team name](#🥇-team-name)
-  - [📂 Category](#📂-category)
-  - [📜 Description](#📜-description)
-  - [📹 Video Demo](#📹-video-demo)
-  - [✅ Pre-requisites and Dependencies](#✅-pre-requisites-and-dependencies)
-  - [👩‍🏫 Installation instructions](#👩‍🏫-installation-instructions)
-    - [⚙ Configuration](#⚙-configuration)
+  - [🥇 Team name](#-team-name)
+  - [📂 Category](#-category)
+  - [📜 Description](#-description)
+  - [📹 Video Demo](#-video-demo)
+  - [✅ Pre-requisites and Dependencies](#-pre-requisites-and-dependencies)
+  - [👩‍🏫 Installation Instructions](#-installation-instructions)
+    - [⚙ Configuration](#-configuration)
       - [API Setting Item](#api-setting-item)
-      - [Cognitive Service](#cognitive-service)
-  - [🚀 Usage instructions](#🚀-usage-instructions)
+  - [🚀 Usage instructions](#-usage-instructions)
     - [Utility Visibility Criteria](#utility-visibility-criteria)
     - [Utility Locations](#utility-locations)
     - [Sentiment Analyzer](#sentiment-analyzer)
     - [Keyword Analyzer](#keyword-analyzer)
-  - [📝 Comments](#📝-comments)
+  - [📝 Comments](#-comments)
 
 <br/>
 
@@ -52,7 +51,7 @@ In addition to sentiment analysis, ensuring the right keywords are present in a 
 
 Driven by the [Microsoft Azure Cognitive Services Text Analytics API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/), this `Sitecore PowerShell Extensions` module comes packaged with two utilities:
 
-1. Sentiment Analyzer
+1. **Sentiment Analyzer**
 
    - Analyze the **sentiment** of field content directly in Sitecore.
 
@@ -60,7 +59,7 @@ Driven by the [Microsoft Azure Cognitive Services Text Analytics API](https://az
 
    - The results are displayed using a `Show-Result` modal and rendered in an easy-to-digest format.
 
-2. Keyword Analyzer
+2. **Keyword Analyzer**
 
    - Analyze a field's content to **extract** critical **keywords**/phrases.
    - The `Keyword Analyzer` utility gives Content Authors the ability to run an analysis of a given field's content which returns **a list of extracted keywords** which can then be used to manually populate a meta keywords field, for example. 
@@ -73,9 +72,8 @@ Driven by the [Microsoft Azure Cognitive Services Text Analytics API](https://az
 
 ## 📹 Video Demo
 
-<iframe width="600" height="500" src="https://www.youtube.com/embed/l5wV0TXfC8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[https://www.youtube.com/watch?v=l5wV0TXfC8k](https://www.youtube.com/watch?v=l5wV0TXfC8k)
+- [https://www.youtube.com/watch?v=l5wV0TXfC8k](https://www.youtube.com/watch?v=l5wV0TXfC8k)
 
 <br/><div style="float:right"><a href="#">Back to top</a></div><br/>
 
